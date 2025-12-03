@@ -2,4 +2,4 @@
 ##### For Networking Lab
 
 # Binary Clone Detection Using Angr
-Work In Progress
+Check out our Thesis on `Binary Clone Detection using Angr` [!here](documents/ThesisBook.pdf)
